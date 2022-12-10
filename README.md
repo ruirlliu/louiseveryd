@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Hi, I'm louiseveryd
 - 👀 Java engineer
 - 🌱 I’m currently learning Java,Algorithms
 
